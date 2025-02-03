@@ -2,7 +2,7 @@
 Case Study: Data-driven transformation of Springfield’s police force.
 
 
- 🔎🔎🔎 Visit my dashboard with [Tableau Public](https://public.tableau.com/views/Digital_Dashboard/Final?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) here! 
+ 🔎🔎🔎 Visit my dashboard with [Tableau Public](https://public.tableau.com/views/Digital_Dashboard/Final?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 🔥🔥🔥 here! 
 
 ---
 Outline:
